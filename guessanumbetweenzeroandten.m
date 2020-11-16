@@ -1,11 +1,11 @@
 clc;
-a = input('1. sayıyı giriniz: ');
-b = input('2. sayıyı giriniz: ');
-c = input('3.sayıyı giriniz: ');
+a = input('Enter the first number: ');
+b = input('Enter the second number: ');
+c = input('Enter the third number ');
 if (a < b && a<c)
-    fprintf('en küçük sayı  %d \n',a);
+    fprintf('Smallest number is  %d \n',a);
 elseif(b<c && b<a)
-    fprintf('en küçük sayı  %d dir \n',b);
+    fprintf('Smallest number is %d \n',b);
 else
-    fprintf('en küçük sayı %d dir \n',c)
+    fprintf('Smallest number is %d \n',c)
 end 
