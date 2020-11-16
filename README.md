@@ -1,1 +1,1 @@
-This repository is about my general MATLAB codes to create as a stack.
+This repository is about my general MATLAB codes especially simple mathematical operations.
